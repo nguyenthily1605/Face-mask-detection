@@ -8,7 +8,7 @@
   Mô tả bộ dataset
   Chúng em tiến hành thu thập dữ liệu từ các camera an ninh của các cửa hàng , công ty.Ngoài ra  còn có một phần dữ liệu được lấy từ dữ liệu của cuộc thi
 Data-Centric AI Competition
-
+![kjksjd](https://github.com/nguyenthily1605/CS114.L21.KHCL/blob/main/image/1.png)
 Hình 1 : Dữ liệu từ các cửa hàng và nhà náy
 Do lí do bảo mật nên nhóm gặp khó khăn trong việc xin trích xuất camera của các cửa hàng và công ty tuy nhiên nhóm đã cố gắng van nài ,xin xỏ .Thành quả đó là thu thập được 8 video trích xuất từ camera trong .Trong đó có 5 video được trích từ cổng ra vào công ty.Ở góc camera này thì thu được tương đối nhiều số lượng người ra vào song vấn đề gặp phải ở đây là góc camera khá rộng khuôn mặt người ở một số khung hình nhỏ )
 Hình 2: Ví dụ góc camera

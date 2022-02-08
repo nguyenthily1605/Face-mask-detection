@@ -8,13 +8,15 @@
   
  _Mô tả bộ dataset_
   
+# XÂY DỰNG BỘ DỮ LIỆU
+  
   Chúng em tiến hành thu thập dữ liệu từ các camera an ninh của các cửa hàng , công ty.Ngoài ra  còn có một phần dữ liệu được lấy từ dữ liệu của cuộc thi
 Data-Centric AI Competition
   
 ![kjksjd](https://github.com/nguyenthily1605/CS114.L21.KHCL/blob/main/image/1.png)
   
 
-  Do lí do bảo mật nên nhóm gặp khó khăn trong việc xin trích xuất camera của các cửa hàng và công ty tuy nhiên nhóm đã cố gắng van nài ,xin xỏ .Thành quả đó là thu thập được 8 video trích xuất từ camera trong .Trong đó có 5 video được trích từ cổng ra vào công ty.Ở góc camera này thì thu được tương đối nhiều số lượng người ra vào song vấn đề gặp phải ở đây là góc camera khá rộng khuôn mặt người ở một số khung hình nhỏ )
+  Do lí do bảo mật nên nhóm gặp khó khăn trong việc xin trích xuất camera của các cửa hàng và công ty tuy nhiên nhóm đã cố gắng van nài ,xin xỏ .Thành quả đó là thu thập được 8 video trích xuất từ camera  .Trong đó có 5 video được trích từ cổng ra vào công ty.Ở góc camera này thì thu được tương đối nhiều số lượng người ra vào song vấn đề gặp phải ở đây là góc camera khá rộng khuôn mặt người ở một số khung hình nhỏ )
   
   ![kjksjd](https://github.com/nguyenthily1605/CS114.L21.KHCL/blob/main/image/2.png)
   
@@ -37,6 +39,8 @@ Mỗi bức ảnh tương ứng với mỗi file txt,mỗi khuôn mặt sẽ tư
   ![kjksjd](https://github.com/nguyenthily1605/CS114.L21.KHCL/blob/main/image/6.png)
   
 Tất cả các khuôn mặt được bounding box của 2098 bức ảnh được gán nhãn và lưu tại 1 file csv. Đối với file csv thì được tổ chức với 6 columns bao gồm columns nhãn,tọa độ x và y của điểm trái trên,weight và high ngoại ra còn chứa tên của ảnh chứa khuôn mặt được bounding box
+  
+  # XỬ LÍ DỮ LIỆU
 
   
   

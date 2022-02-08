@@ -5,7 +5,7 @@
 <p> NGÔ ANH VŨ -  MSSV : </p>
 <h1> Đồ án cuối kì </h1>
 <p>Tên đồ án : Phát hiện người đeo khẩu trang </p>
-  **Mô tả bộ dataset**
+ **Mô tả bộ dataset**
   
   Chúng em tiến hành thu thập dữ liệu từ các camera an ninh của các cửa hàng , công ty.Ngoài ra  còn có một phần dữ liệu được lấy từ dữ liệu của cuộc thi
 Data-Centric AI Competition

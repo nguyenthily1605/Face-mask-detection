@@ -24,7 +24,7 @@ Data-Centric AI Competition
 
 Sau khi tiến hành thu thập dữ liệu thì chúng em sẽ trích xuất các frame ảnh từ video .Các frame được trích xuất với tiêu chí chọn các frame có khuôn mặt người có thể nhìn rõ được .Đối với các frame ảnh ko có người thì chúng ta bỏ qua không lấy.Bởi video được thu thập ở quê,dân cư thưa thớt,mật độ dân số thấp cho nên số lượng người xuất hiện trong video không nhiều nên mặc dù số video thu được nhiều nhưng số lượng frame ảnh được lấy chỉ tầm 1034 bức ảnh .Với lượng số ảnh trên thì nhóm chúng em tiến hành lấy thêm dữ liệu của cuộc thi  Data-Centric AI Competition là 1064 bức ảnh nữa.Vậy tổng cộng bộ dữ liệu của tụi em có 2098 bức ảnh với 3252 khuôn mặt được gán nhãn No Mask hoặc Mask. Công cụ được chúng em sử dụng để tiến hành gãn nhãn đó là makesense.ai.Thì thông số cụ thể của từng nhãn đó là 1827 khuôn mặt được dán nhãn label ‘ No Mask’ và 1425 khuôn mặt  được dán nhãn ‘Mask’.
 
-  ![kjksjd](https://github.com/nguyenthily1605/CS114.L21.KHCL/blob/main/image/4.png)
+ ![kjksjd](https://github.com/nguyenthily1605/CS114.L21.KHCL/blob/main/image/4.jpg)
 
 Các thông số về bounding box khuôn mặt được tổ chức và lưu ở 2 định dạng đó là file.csv và file .txt.
  

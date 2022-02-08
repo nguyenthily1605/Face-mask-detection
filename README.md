@@ -42,6 +42,7 @@ Tất cả các khuôn mặt được bounding box của 2098 bức ảnh đư�
   Toàn bộ ảnh ,file .txt và file .csv được tổ chức và lưu trữ tại mục data của drive [tại đây](https://drive.google.com/drive/folders/1_UuzfXEk6-at0SI4-y3c84NzROAc2XPe?usp=sharing)
   
   # XỬ LÍ DỮ LIỆU
+  Sau khi tiến hành thu thập và xây dựng và tổ  chức dữ liệu thì chúng em tiến hành một số thao tác cơ bản trước khi đưa vào mô hình để huấn luyện
 
   
   

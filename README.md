@@ -38,7 +38,8 @@ Mỗi bức ảnh tương ứng với mỗi file txt,mỗi khuôn mặt sẽ tư
 
   ![kjksjd](https://github.com/nguyenthily1605/CS114.L21.KHCL/blob/main/image/6.png)
   
-Tất cả các khuôn mặt được bounding box của 2098 bức ảnh được gán nhãn và lưu tại 1 file csv. Đối với file csv thì được tổ chức với 6 columns bao gồm columns nhãn,tọa độ x và y của điểm trái trên,weight và high ngoại ra còn chứa tên của ảnh chứa khuôn mặt được bounding box
+Tất cả các khuôn mặt được bounding box của 2098 bức ảnh được gán nhãn và lưu tại 1 file csv. Đối với file csv thì được tổ chức với 6 columns bao gồm columns nhãn,tọa độ x và y của điểm trái trên,weight và high ngoại ra còn chứa tên của ảnh chứa khuôn mặt được bounding box.
+  Toàn bộ ảnh ,file .txt và file .csv được tổ chức và lưu trữ tại mục data của drive [tại đây](https://drive.google.com/drive/folders/1_UuzfXEk6-at0SI4-y3c84NzROAc2XPe?usp=sharing)
   
   # XỬ LÍ DỮ LIỆU
 

@@ -44,9 +44,13 @@ Tất cả các khuôn mặt được bounding box của 2098 bức ảnh đư�
   # SỬ DỤNG DỮ LIỆU
   
   Sau khi tiến hành thu thập và xây dựng và tổ  chức dữ liệu thì chúng em tiến hành một số thao tác cơ bản trước khi đưa vào mô hình để huấn luyện.Với bộ dữ liệu 2098 ảnh chúng em tiến hành chia ra để tiến hành huấn luyện và test.
-  1. Đối với mô hình yolov5s
   
   Bộ dữ liệu được chia ra 2 tập train và val  .Cụ thể tệp val có 190 bức ảnh .Còn bộ train có 1908 bức ảnh
 
+  ![kjksjd](https://github.com/nguyenthily1605/CS114.L21.KHCL/blob/main/image/7.png)
+  
+  Ngoài ra nhóm em cũng tiến hành thu thập một tập test bao gồm các ảnh có góc camera,bối cảnh khác với dữ liệu của tập train và val
+  
+  
   
   

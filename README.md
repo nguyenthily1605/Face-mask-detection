@@ -41,8 +41,12 @@ Mỗi bức ảnh tương ứng với mỗi file txt,mỗi khuôn mặt sẽ tư
 Tất cả các khuôn mặt được bounding box của 2098 bức ảnh được gán nhãn và lưu tại 1 file csv. Đối với file csv thì được tổ chức với 6 columns bao gồm columns nhãn,tọa độ x và y của điểm trái trên,weight và high ngoại ra còn chứa tên của ảnh chứa khuôn mặt được bounding box.
   Toàn bộ ảnh ,file .txt và file .csv được tổ chức và lưu trữ tại mục data của drive [tại đây](https://drive.google.com/drive/folders/1_UuzfXEk6-at0SI4-y3c84NzROAc2XPe?usp=sharing)
   
-  # XỬ LÍ DỮ LIỆU
-  Sau khi tiến hành thu thập và xây dựng và tổ  chức dữ liệu thì chúng em tiến hành một số thao tác cơ bản trước khi đưa vào mô hình để huấn luyện
+  # SỬ DỤNG DỮ LIỆU
+  
+  Sau khi tiến hành thu thập và xây dựng và tổ  chức dữ liệu thì chúng em tiến hành một số thao tác cơ bản trước khi đưa vào mô hình để huấn luyện.Với bộ dữ liệu 2098 ảnh chúng em tiến hành chia ra để tiến hành huấn luyện và test.
+  1. Đối với mô hình yolov5s
+  
+  Bộ dữ liệu được chia ra 2 tập train và val với tỉ lệ là 8:2 .Cụ thể tệp val bao gồm các ảnh 
 
   
   

@@ -46,7 +46,7 @@ Tất cả các khuôn mặt được bounding box của 2098 bức ảnh đư�
   Sau khi tiến hành thu thập và xây dựng và tổ  chức dữ liệu thì chúng em tiến hành một số thao tác cơ bản trước khi đưa vào mô hình để huấn luyện.Với bộ dữ liệu 2098 ảnh chúng em tiến hành chia ra để tiến hành huấn luyện và test.
   1. Đối với mô hình yolov5s
   
-  Bộ dữ liệu được chia ra 2 tập train và val với tỉ lệ là 8:2 .Cụ thể tệp val bao gồm các ảnh 
+  Bộ dữ liệu được chia ra 2 tập train và val  .Cụ thể tệp val có 190 bức ảnh .Còn bộ train có 1908 bức ảnh
 
   
   

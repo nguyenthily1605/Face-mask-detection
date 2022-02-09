@@ -52,5 +52,5 @@ Tất cả các khuôn mặt được bounding box của 2098 bức ảnh đư�
   Ngoài ra nhóm em cũng tiến hành thu thập một tập test bao gồm các ảnh có góc camera,bối cảnh khác với dữ liệu của tập train và val
   
   
-  
+    ![kjksjd](https://github.com/nguyenthily1605/CS114.L21.KHCL/blob/main/image/8.png)
   

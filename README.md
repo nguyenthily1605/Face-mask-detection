@@ -1,12 +1,6 @@
-# CS114.M11.KHCL
+# Face mask detection
 <html>
- <p> Mã lớp : CS114.M11.KHCL</p>
- <p> Giảng viên: PGS TS. Lê Đình Duy & ThS. Phạm Nguyễn Trường An </p> 
-  
-<h1> Giới thiệu nhóm </h1>
-<p> NGUYỄN THỊ LY - MSSV : 19521818 </p>
-<p> NGÔ ANH VŨ -  MSSV : 17521272 </p>
-<h1> Đồ án cuối kì </h1>
+
 <p>Tên đồ án : Phát hiện người đeo khẩu trang </p>
   
  _Mô tả bộ dataset_
